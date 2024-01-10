@@ -1,2 +1,2 @@
 # macOS
-Most code I build is under client NDA, but here are a few tried and true generic scripts. Maybe not the most elegant or efficient and that's fine -- they work! 
+Sample shell and powershell scripts for MacOS. Maybe not the most elegant, but they work! 
